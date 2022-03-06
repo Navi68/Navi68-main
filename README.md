@@ -30,16 +30,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Navi68/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vaishnavi Rastogi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Navi68&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/iScreenager/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vaishnavi Rastogi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iScreenager&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-  <a href="https://github.com/Navi68/github-readme-stats"><img alt="Vaishnavi Rastogi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Navi68&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Navi68/github-readme-stats"><img alt="Vaishnavi Rastogi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navi68&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/iScreenager/github-readme-stats"><img alt="Vaishnavi Rastogi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iScreenager&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/iScreenager/github-readme-stats"><img alt="Vaishnavi Rastogi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iScreenager&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -47,7 +47,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Navi68/github-readme-activity-graph"><img alt="Vaishnavi Rastogi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Navi68&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/iScreenager/github-readme-activity-graph"><img alt="Vaishnavi Rastogi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iScreenager&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -63,6 +63,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Navi8">
+    <img src="https://komarev.com/ghpvc/?username=iScreenager">
 </a>
-<a href="https://github.com/Navi8?tab=followers"><img src="https://img.shields.io/github/followers/Navi68?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/iScreenager?tab=followers"><img src="https://img.shields.io/github/followers/iScreenager?label=Followers&style=social" alt="GitHub Badge"></a>
