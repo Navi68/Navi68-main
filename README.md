@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **vaishnavimzp100@gmail.com**
+- 📫 How to reach me **rastogivaishnavi68@gmail.com**
 
 - ⚡ Fun fact **Yes,i love football, but i am not a guy🤫 **
 
